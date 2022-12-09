@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="wind">Wind is blowing</string>
+    <string name="animation_type">Choose your Animation type</string>
+    <string name="star_image">star image</string>
+    <string name="sample_text_sample">Sample Text Sample</string>
+    <string-array name="options_list">
+        <item>Image Rotate</item>
+        <item>Image Translate</item>
+        <item>Image Scale</item>
+        <item>Image Fade</item>
+        <item>Image Sky color</item>
+        <item>Text Fade In</item>
+        <item>Text Fade Out</item>
+        <item>Text Bounce</item>
+        <item>Text Rotate</item>
+        <item>Text Slide In</item>
+        <item>Text Slide Out</item>
+        <item>Text Zoom In</item>
+        <item>Text Zoom Out</item>
+    </string-array>
+</resources>
